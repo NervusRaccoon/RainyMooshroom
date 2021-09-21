@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Menu.unity
+    guid: 8742ef8ff7e77344a94ca65ebcdc34a0
+  - enabled: 1
+    path: Assets/Skripts/Level 1.unity
+    guid: 3f74535fd1284c34fb497f80563780fa
+  - enabled: 1
+    path: Assets/Skripts/Level1(gameplay).unity
+    guid: fc3036ef87a247d4dad41107dcc51f6b
+  - enabled: 1
+    path: Assets/Skripts/Level 2.unity
+    guid: 444f1b4bcbfaf3e47a347411aa36d73f
+  - enabled: 1
+    path: Assets/Skripts/Level2(gameplay).unity
+    guid: d10b9567eaa83f6419467213bc82e925
+  - enabled: 1
+    path: Assets/Skripts/Level 3.unity
+    guid: d4418ea3b7b359740b6d76cc33de2eaa
+  - enabled: 1
+    path: Assets/Skripts/Level3(gameplay).unity
+    guid: 1f093be64ffd18f4ba7172fc0e832cf6
+  - enabled: 1
+    path: Assets/Skripts/Level 4.unity
+    guid: 03b6df03019b5d94f844d339e6316f0f
+  - enabled: 1
+    path: Assets/Skripts/Level4(gameplay).unity
+    guid: adc0eed5f81c2774cb9dd25dface51a8
+  - enabled: 1
+    path: Assets/Skripts/Level 5.unity
+    guid: 7a808fe44b4c73e4786a054726cf20a6
+  - enabled: 1
+    path: Assets/Skripts/Level5(gameplay).unity
+    guid: 3a7a5b151eb77264d9e58937da843c67
+  - enabled: 1
+    path: Assets/Skripts/Result5Lvl.unity
+    guid: 350d867f95b432e4c8172afb8b19461c
+  - enabled: 1
+    path: Assets/Skripts/LevelEx.unity
+    guid: 070858f316ec728429efcf02eae49c6b
+  - enabled: 1
+    path: Assets/Skripts/ExtraLevel(gameplay).unity
+    guid: 6cf65f6c284429a4595ac7f34bc1661b
+  - enabled: 1
+    path: Assets/Skripts/EndOfTheGame.unity
+    guid: 43e12eea398738e4daeb23fb79487b9b
+  - enabled: 1
+    path: Assets/Skripts/Fail.unity
+    guid: 415f174fc49b5e34291e3b9c0f575262
